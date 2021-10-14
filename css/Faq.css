@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-main{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #007bff;
+}
+.logo {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600
+}
+.search-form {
+    border: 1px solid #ffffff !important
+}
+
+.search-button {
+    color: #007bff;
+    background-color: #ffffff;
+    border-color: #ffffff
+}
+.nav-item{
+    list-style: none;
+    padding: 0%;
+}
+/* Form */
+input{
+    width: 40rem;
+}
+textarea{
+    width: 40rem;
+}
